@@ -181,6 +181,7 @@ class _ThemePageState extends State<ThemePage> {
             SizedBox(height: 10),
 
             //Aqui se le cambia el tamaño de fuente al texto
+            //tamaño de fuente
             Column(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
