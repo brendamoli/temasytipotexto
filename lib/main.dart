@@ -83,6 +83,7 @@ class _ThemePageState extends State<ThemePage> {
           ],
         ),
       );
+      //temas
     } else if (_currentIndex == 1) {
       return Center(
         child: Column(
