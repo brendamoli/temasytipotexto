@@ -241,7 +241,7 @@ class _ThemePageState extends State<ThemePage> {
              SizedBox(height: 10),
 
              //aqui en pieza el codigo para darle un estilo de fuente al texto
-
+            //cambia el tipo de texto
 
             DropdownButton<String>(
               value: _fontFamily,
