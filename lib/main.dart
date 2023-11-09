@@ -125,6 +125,7 @@ class _ThemePageState extends State<ThemePage> {
   }
   
 //codigo que hace el cambio de tema en la aplicacion
+//cambiamos el tema en toda la aplicacion
 
   void _changeTheme(ThemeData newTheme, Color backgroundColor) {
     setState(() {
