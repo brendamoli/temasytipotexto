@@ -198,6 +198,7 @@ class _ThemePageState extends State<ThemePage> {
             SizedBox(height: 10),
 
             //este es el boton para cabiar el color del texto 
+            //canbia el color del texto
 
             ElevatedButton(
               onPressed: () {
